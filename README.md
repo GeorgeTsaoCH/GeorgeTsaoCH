@@ -1,55 +1,55 @@
 # Chih-Hsiang Tsao (George Tsao)
 
-Electronics Engineering Technology Student  
-Digital Systems | FPGA | PCB Design | Embedded Logic  
+Electronics Engineering Techncian Student  
+Circuit Simulation | PCB Design | Hardware Testing | Troubleshooting | Digital Logic  
 
 ---
 
 ## Technical Focus
 
-- Finite State Machine (FSM) Design  
-- FPGA Implementation (Basys3 / Vivado)  
-- Digital Logic System Architecture  
-- Pneumatic-to-Digital Control Mapping  
-- Circuit Analysis and Signal Behavior  
+- Circuit Simulation and Validation  
+- PCB Design and Schematic Interpretation  
+- Hardware Testing and Troubleshooting  
+- Root Cause Analysis  
+- Breadboard Prototyping  
+- Digital Logic Design  
 
 ---
 
 ## Hardware & PCB Experience
 
 - Designed and routed custom PCBs  
-- Schematic capture and simulation (OrCAD / PSpice)  
-- Logic IC integration (SN74LS47, TTL logic)  
+- Schematic capture and circuit simulation using OrCAD / PSpice  
+- Breadboard prototyping and hardware validation  
+- DMM continuity testing and waveform observation  
 - Component placement optimization  
 - Trace routing and layout strategy  
-- 7-Segment Display Driver implementation  
 
 ---
 
-## Projects
+## Featured Projects
 
-### Digital Systems
-- Pneumatic Sequential Control → FPGA FSM Implementation  
-- BCD to 7-Segment Display System  
-- Digital Counter & Logic Board Design  
+### Hardware Testing & Validation
+- LM324-Based Voltage Level Meter  
+- 4-Input XOR Logic Circuit PCB Project  
 
 ### Circuit & Simulation
-- RC / RL frequency response analysis  
-- Reactance and phase measurement  
-- 555 Timer waveform generation and analysis  
+- Threshold simulation and voltage behavior comparison  
+- PCB verification and final board testing  
+- Breadboard-to-PCB implementation workflow  
 
 ---
 
 ## Tools & Technologies
 
-**HDL & Digital Design**  
-Verilog | FSM Modeling | Timing Logic  
+**Programming**  
+C | Basic Python | Digital Logic Flow  
 
 **EDA & Simulation**  
-Vivado | OrCAD | PSpice  
+OrCAD | PSpice | Fusion 360 | Vivado  
 
-**Hardware & PCB**  
-Schematic Capture | PCB Layout | Signal Routing  
+**Hardware & Test**  
+Digital Multimeter (DMM) | Oscilloscope | Breadboard Prototyping | PCB Layout  
 
 **Version Control**  
 Git | GitHub  
@@ -58,13 +58,13 @@ Git | GitHub
 
 ## Currently Working On
 
-- Converting mechanical sequential systems into digital state machines  
-- Improving timing analysis and hardware debugging skills  
-- Building FPGA-based control architectures  
+- Improving hardware debugging and validation skills  
+- Expanding Python and C for test logic and automation concepts  
+- Building project documentation for engineering co-op applications  
 
 ---
 
 ## Engineering Approach
 
-I focus on understanding system behavior from physical layer to digital abstraction.  
-Strong interest in bridging mechanical control systems with digital logic implementation.
+I am interested in understanding how circuits behave from simulation to hardware implementation.  
+My current focus is on building practical experience in circuit testing, debugging, PCB design, and digital logic.
