@@ -43,7 +43,7 @@ Circuit Simulation | PCB Design | Hardware Testing | Troubleshooting | Digital L
 ## Tools & Technologies
 
 **Programming**  
-C | Basic Python | Digital Logic Flow  
+C | Python | Digital Logic Flow  
 
 **EDA & Simulation**  
 OrCAD | PSpice | Fusion 360 | Vivado  
